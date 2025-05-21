@@ -12,7 +12,6 @@
 
 ---
 
-### 🧰 Мои технологии:
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,redux,mongodb,html,css,tailwind,git,github,graphql,vscode,webstorm)
 
