@@ -20,19 +20,11 @@
 ### 📈 GitHub Статистика:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MatveyVi&show_icons=true&theme=tokyonight" alt="MatveyVi's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatveyVi&theme=tokyonight" />
 </p>
 
 ---
 
-### 🏆 Мои достижения на GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatveyVi&theme=tokyonight&title=Stars,Followers,Commit,PullRequest,Issues" />
-</p>
-
----
 
 ![](https://komarev.com/ghpvc/?username=MatveyVi)
 
