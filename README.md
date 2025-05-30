@@ -15,26 +15,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,redux,mongodb,html,css,tailwind,git,github,graphql,vscode,webstorm)
 
----
 
-### 📈 GitHub Статистика:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatveyVi&theme=tokyonight" />
-</p>
-
----
-
-
-![](https://komarev.com/ghpvc/?username=MatveyVi)
-
----
-
-### 🔥 Язык активности:
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatveyVi&layout=compact&theme=tokyonight" />
-
----
 
 ### 📫 Как со мной связаться:
 - Telegram: [@matveyvii](https://t.me/matveyvishn)
