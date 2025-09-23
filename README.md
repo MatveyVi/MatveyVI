@@ -1,4 +1,4 @@
-![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,react,redux,mongodb,html,css,tailwind,git,github,graphql,vscode,webstorm)
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,prisma,express,mongodb,git,github,graphql,vscode)
 
 
 
